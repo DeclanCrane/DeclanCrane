@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Declan 👋</h1>
-<h3 align="center">Self-Taught Software Developer</h3>
 
 - 📫 How to reach me **DeclanCrane10@gmail.com**
 
